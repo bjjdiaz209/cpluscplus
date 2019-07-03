@@ -62,7 +62,9 @@ int main()
 
     wchar_t p = L'F';
 
+
     //null_ptr = reprsenta aun puntero nulo
 
+    //size_t unsignedlong
 }
 
