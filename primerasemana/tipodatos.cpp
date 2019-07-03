@@ -32,7 +32,7 @@ int main()
      auto r = 2'000'000'000U;
      
      auto r2= s+r;
-     cout<<r2<<"\n";*/
+     cout<<r2<<"\n";
 
 
      //short
@@ -40,6 +40,29 @@ int main()
      short n = 25;
      short n2 = (short)6484257;
 
-     signed short q = 24; 
+     signed short q = 24;*/
+
+     //long
+
+     long x = 16;
+     long y = 1987645321L;
+
+     long long z = 6428951732641LL;
+
+     auto p = 64971280143462LLU;
+     
+     //tipos de coma flotante
+
+     float r = 3.1415;
+
+     double s = 3.1415926354321;
+
+     double h = 3.1415E42;
+    //wchar_t ide a remplaso d un char 
+
+    wchar_t p = L'F';
+
+    //null_ptr = reprsenta aun puntero nulo
+
 }
 
