@@ -22,7 +22,7 @@ size_t tamanio(const char* s)
 void invertir(char* s)
 {
    auto len = tamanio(s);
-   for (size_t i = 0; j = len-1;i<j;i++ ;j--)
+   for (size_t i = 0; j= len-1;i<j;i++ ;j--)
    {
        intercambiar(s[i],s[j])
    }
