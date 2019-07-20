@@ -23,8 +23,8 @@ int main()
 
 
     for (auto e : c)
-    {
+    
         cout<<e<<"\n";
-    }
+    
     
 }
